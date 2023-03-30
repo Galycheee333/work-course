@@ -2,6 +2,10 @@
   "type": "module",
   "dependencies": {
     "js-crc32": "^1.0.1",
-    "lodash": "4.17.21"
+    "lodash": "4.17.21",
+    "select": "^1.1.2"
+  },
+  "devDependencies": {
+    "sass": "^1.59.3"
   }
 }
